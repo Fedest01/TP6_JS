@@ -3,10 +3,10 @@
     margin-left: 30px;
     background-color: #EDF9E9;
 }
-body{
+body{ /*aqui le doy estilos a la etiqueta body*/
     border: 7px solid #364431;
 }
-h1{
+h1{ /*aqui le doy estilo al titulo de la pag*/
     text-align: center;
     background-color: #D7FACB;
     padding: 15px;
@@ -18,11 +18,11 @@ h1{
     
 
 }
-.etiqueta{
+.etiqueta{ /*aqui le doy un estilo a las etiquetas dentro de la pagina para diferenciarlas*/
     background-color: rgb(180, 179, 179);
     border-radius: 2px;
 }
-h2{
+h2{ /*aqui le doy estilos a los subtitulos*/
     text-align: center;
     padding-left: 20px;
     margin-left: 60px;
@@ -31,22 +31,20 @@ h2{
     border-radius: 5px;
     box-shadow: 5px 5px 5px #B4D2AA;
 }
-.question {
+.question { /*aqui le doy estilos a la seccion de preguntas*/
     margin-left: 36px;
     margin-bottom: 20px;
     border-radius: 5px;
     box-shadow: 5px 5px 5px 5px #8eb681;
 }
-.answers{
+.answers{ /*aqui le doy estilos a la seccion de respuestas*/
     margin-left: 60px;
     margin-bottom: 30px;
     border-radius: 5px;
     box-shadow: 5px 5px 5px 5px #8eb681;
 }
-.answers .first{
-    margin-top: 10px;
-}
-.names p{
+
+.names p{ /*aqui le doy la posicion y el estilo que quiero a los nombres*/
     padding: 10px;
     background-color: #D7FACB;
     margin-left: 23%;
@@ -57,16 +55,16 @@ h2{
     
 }
 
-img{
+img{ /*aqui le doy la posicion que quiero al escudo de la institucion*/
     margin-top: 40px;
     margin-left: 45%;
 }
 
-.body{
+.body{ /*aqui le doy la fuente y el tamaño pide el profe*/
     font-family: 'Times New Roman';
     font-size: 12px;
 }
-.title{
+.title{ /*aqui vuelvo a darle la fuente y el tamaño que pide el profe para los titulos*/
     font-family: serif;
     font-size: 20px;
 }
