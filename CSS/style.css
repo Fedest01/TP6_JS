@@ -18,6 +18,10 @@ h1{
     
 
 }
+.etiqueta{
+    background-color: rgb(180, 179, 179);
+    border-radius: 2px;
+}
 h2{
     text-align: center;
     padding-left: 20px;
