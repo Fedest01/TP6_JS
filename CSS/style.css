@@ -39,7 +39,9 @@ h2{
     border-radius: 5px;
     box-shadow: 5px 5px 5px 5px #8eb681;
 }
-
+.answers .first{
+    margin-top: 10px;
+}
 .names p{
     padding: 10px;
     background-color: #D7FACB;
